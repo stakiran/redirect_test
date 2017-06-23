@@ -8,7 +8,8 @@ I renamed this repo.
 
 # Links
 - https://github.com/stakiran/redirect_test/
-- https://github.com/stakiran/redirect_test/blob/master/README.md
-- https://github.com/stakiran/redirect_test/issues
-- https://github.com/stakiran/redirect_test/wiki
-
+- https://github.com/stakiran/redirect_test1/
+- https://github.com/stakiran/redirect_test2/
+- https://github.com/stakiran/redirect_test3/
+- https://github.com/stakiran/redirect_test4/
+- https://github.com/stakiran/redirect_test5/
